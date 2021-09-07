@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(https://wallpaperaccess.com/full/3628936.jpg) ;
+    background-size: initial;
+    background-position: 0px -400px;
+    
+
+}
+div.main{
+    width: 500px;
+    margin: 80px 740px auto;
+    
+}
+h2{
+   font-size: 24;
+   font-family: sans-serif; 
+   padding: 10px;
+}
+h3 {
+    font-size: 18;
+    font-family: sans-serif;
+    color: grey;
+}
+div.register{
+    background-color: white;
+    width: 100%;
+    font-size: 18;
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px black;
+    color: grey;
+}
+form#register{
+    margin: 40px;
+}
+input#name{
+    width: 320px;
+    height: 30px;
+    border: solid 1px black;
+    border-radius: 3px;
+    outline: 0px;
+    padding: 7px;
+    box-shadow: inset 1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+input#nama{
+    width: 334px;
+    height: 30px;
+    border: solid 1px black;
+    border-radius: 3px;
+    outline: 0px;
+    padding: 7px;
+    box-shadow: inset 1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+input#submit{
+    margin: 10px;
+    width: 100px;
+    height: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: black;
+    border-radius: 3px;
+    outline: 0px;
+    box-shadow: 2px 2px 3px black;
+    cursor: pointer;
+}
+
