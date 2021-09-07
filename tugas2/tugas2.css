@@ -75,5 +75,7 @@ select#topup{
     box-shadow: inset 1px 1px 5px rgba(0, 0, 0, 0.2);
     font-family: sans-serif;
 }
-
+@media screen{
+    width: 100%;
+}
 
