@@ -11,7 +11,7 @@ body{
 }
 div.main{
     width: 500px;
-    margin: 70px 740px auto;
+    margin: 40px 740px auto;
     
 }
 h2{
@@ -65,4 +65,15 @@ input#submit{
     box-shadow: 2px 2px 3px black;
     cursor: pointer;
 }
+select#topup{
+    width: 334px;
+    height: 30px;
+    border: solid 1px black;
+    border-radius: 3px;
+    outline: 0px;
+    padding: 7px;
+    box-shadow: inset 1px 1px 5px rgba(0, 0, 0, 0.2);
+    font-family: sans-serif;
+}
+
 
